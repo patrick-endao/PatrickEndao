@@ -1,0 +1,178 @@
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\ApplicationInsights.config
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll.config
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe.config
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.rsp
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.exe
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.rsp
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.AppContext.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe.config
+C:\Users\Patrick\Desktop\Work\Endao\Memory Cache Research\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\ApplicationInsights.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.AppContext.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\ApplicationInsights.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csc.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\csi.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.AppContext.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\vbc.rsp
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll.config
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Razor.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.dll
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.pdb

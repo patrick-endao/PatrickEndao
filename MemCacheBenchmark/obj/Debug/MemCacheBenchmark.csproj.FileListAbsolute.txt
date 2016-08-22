@@ -176,3 +176,4 @@ C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Help
 C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\bin\System.Web.Mvc.xml
 C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.dll
 C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.pdb
+C:\Users\Patrick\Desktop\MemCacheBenchmark\MemCacheBenchmark\obj\Debug\MemCacheBenchmark.csprojResolveAssemblyReference.cache
